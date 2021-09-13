@@ -1,0 +1,46 @@
+{
+    "items":[{
+        "id":1,
+        "type":"shirt",
+        "color":"blue",
+        "size": "small",
+        "img":"img/blue_t.png"
+    },
+    {
+        "id":2,
+        "type":"pants",
+        "color":"pink",
+        "size": "medium",
+        "img":"img/pink_p.png"
+    },
+    {
+        "id":3,
+        "type":"pants",
+        "color":"yellow",
+        "size": "medium",
+        "img":"img/yellow_p.png"
+    },
+    {
+        "id":4,
+        "type":"shirt",
+        "color":"pink",
+        "size": "medium",
+        "img":"img/pink_t.png"
+    },
+    {
+        "id":5,
+        "type":"pants",
+        "color":"blue",
+        "size": "medium",
+        "img":"img/blue_p.png"
+    },
+    {
+        "id":6,
+        "type":"skirt",
+        "color":"yellow",
+        "size": "medium",
+        "img":"img/yellow_s.png"
+    }
+
+    ]
+}
